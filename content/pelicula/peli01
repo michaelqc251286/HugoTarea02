@@ -3,8 +3,8 @@ movieId: movie_1
 title : El conjuro
 gerero : Terror
 anno : 2013
-actorId : actor01
-directorId : director01
+actorId : [actor01]
+directorId : [director01]
 ---
 
 En 1971, Roger y Carolyn Perron (Ron Livingston y Lili Taylor) 
