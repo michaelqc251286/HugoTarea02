@@ -1,8 +1,8 @@
 ---
-authorId: {{ replace .Name "-" " " }}
-title: 
-nationality:
-birth:
-fields: []
-booksId: []
+movieId: {{ replace .Name "-" " " }}
+title :
+gerero :
+anno : 
+actorId: []
+directorId : [] 
 ---

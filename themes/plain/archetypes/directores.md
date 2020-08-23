@@ -1,9 +1,8 @@
 ---
-publisherId: {{ replace .Name "-" " " }}
-title: 
-country: 
-founded:
-genere: 
-booksId: []
+directorId: {{ replace .Name "-" " " }}
+name:
+edad :
+nacionalidad : 
+movieId: []
 ---
 
